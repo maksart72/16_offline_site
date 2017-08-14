@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is bootstrap template with local saved source files. Ready for customization in off-line mode.
 
 # Project Goals
 
